@@ -1,7 +1,7 @@
 
 <h2>E-Challan </h2>
 
-By Team Aavishkarak
+By Team Aavishkarak ;
 Smart India Hackathon
 
 **Aim:** To make the payment of the fine generated during any accident online using an app and also to store all the data generated during the accident and all the details related to that accident in the database, which helps easy retrieval and searching of data.   
